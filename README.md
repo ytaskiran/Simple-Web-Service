@@ -6,3 +6,6 @@ This was very simple implementation for a web service. In order to scale this se
 I deployed the application on Heroku because of its simplicity. Also it is free to use. If this service becomes more complicated and gets more traffic, then I would need to deploy on another cloud web service platform to reach richer resources. 
 
 In order to make this easy to maintain and make the deployment process more sustainable, I'd build a development pipeline and form rules that differs production level code and debug level code.
+
+
+Website: https://devpaths-webservice-flask.herokuapp.com/ 
