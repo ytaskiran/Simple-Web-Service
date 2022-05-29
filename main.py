@@ -39,4 +39,5 @@ def hash_to_message(hash):
 
     return hash_message[hash]
 
-app.run()
+if __name__ == "__main__":
+    app.run()
